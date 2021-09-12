@@ -1,0 +1,24 @@
+-E-Commerce Website where you can find products that you like. 
+          -This project is build by using HTML,CSS,PHP and JavaScript.
+-You can search and sort the products and it's details.
+-User can insert the product they like in the cart and simply remove it if they don't want the product.
+-Register and Login. 
+-Find the images of the website in the folder website images.
+
+How the projec works:
+
+Step 1: Open the index.php (User will be able to see the Featured products and Latest products). 
+
+Step 2: product.php / click on Product (User will able to search the product and sort the products).
+
+Step 3: productdetails.php / click on Product Images (User will get the detail of the products).
+
+Step 4: cart.php / Click on the cart icon(The user can see what they can inserted in the cart,
+						The user can add and remove the products).
+
+Step 5: account.php / register.php /click on account (User will be send to register).
+
+After completion of step 5 the user will be send to login.php where the user has to login in and after logged in the 
+user will be again send to step 1 where they can enjoy the product.
+
+
